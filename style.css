@@ -134,7 +134,7 @@ ul li a:hover {
 
 #social-links {
   display: flex;
-  gap: 30px;
+  gap: 10px;
   justify-content: center;
 
   padding: 24px 0;
