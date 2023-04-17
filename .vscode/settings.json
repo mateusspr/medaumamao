@@ -17,12 +17,12 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Tomorrow Night Blue",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.enable": true,
   "prettier.singleQuote": false,
   "prettier.tabWidth": 2,
-  "prettier.semi": false,
+  "prettier.semi": false
 }
